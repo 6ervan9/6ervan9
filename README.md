@@ -1,6 +1,5 @@
-- Hi, I'm 6ervan9.👋
+Hi, I'm 6ervan9.👋
 > I love drawing,animating,graphic-designing,web-designing,3d-modeling and web-programming.
-
 
 
 <!--
